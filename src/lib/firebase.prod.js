@@ -4,12 +4,12 @@ import 'firebase/auth';
 import {seedDatabase} from "../seed";
 
 const config = {
-    apiKey: "AIzaSyAc6PaAVvpaL8vjkHYe6_qtXUj4Y6JAOa4",
-    authDomain: "project-6e7db.firebaseapp.com",
-    projectId: "project-6e7db",
-    storageBucket: "project-6e7db.appspot.com",
-    messagingSenderId: "520450097268",
-    appId: "1:520450097268:web:d397177d624d4377efd121"
+    apiKey: "AIzaSyCUhzl9I-lY45418REJ9HpWnbasxLvsM_4",
+    authDomain: "project1-c2782.firebaseapp.com",
+    projectId: "project1-c2782",
+    storageBucket: "project1-c2782.appspot.com",
+    messagingSenderId: "767640126876",
+    appId: "1:767640126876:web:f2648df240ceebd0def459"
 }
 const firebase = Firebase.initializeApp(config);
 
